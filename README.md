@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b161569a-c7d3-4699-b3c5-44be29c3ceb2)
+
 # Project README: Optimizing Rider Efficiency and Revenue Using Data-Driven Insights
 
 ## Project Title:
